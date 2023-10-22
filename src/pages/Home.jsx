@@ -22,7 +22,7 @@ const Home = () => {
                                     <p>Redux</p>
                                     <p>REST</p>
                                     <p>Github (git)</p>
-                                    <p>Styled Components</p>
+                                    <p>SCSS Modules</p>
                                     <p>NPM</p>
                                 </div>
                             </li>
