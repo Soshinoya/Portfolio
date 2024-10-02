@@ -59,26 +59,26 @@ export const projects = [
         gitHubLink: 'https://github.com/Soshinoya/Swipe',
         websiteLink: 'https://swipe-landing.netlify.app/'
     },
-    {
-        id: 2,
-        title: 'Qubit',
-        skills: 'React Bootstrap GSAP',
-        previewImgUrl: image03Preview,
-        fullPageImgUrl: image03_fullPage,
-        sliderImgUrls: [image03_01, image03_02, image03_03],
-        gitHubLink: 'https://github.com/Soshinoya/Qubit',
-        websiteLink: 'https://serene-kashata-b6fa18.netlify.app/'
-    },
-    {
-        id: 3,
-        title: 'Hounter',
-        skills: 'Gulp SCSS Bootstrap',
-        previewImgUrl: image04Preview,
-        fullPageImgUrl: image04_fullPage,
-        sliderImgUrls: [image04_01, image04_02, image04_03, image04_04],
-        githubLink: '',
-        websiteLink: ''
-    },
+    // {
+    //     id: 2,
+    //     title: 'Qubit',
+    //     skills: 'React Bootstrap GSAP',
+    //     previewImgUrl: image03Preview,
+    //     fullPageImgUrl: image03_fullPage,
+    //     sliderImgUrls: [image03_01, image03_02, image03_03],
+    //     gitHubLink: 'https://github.com/Soshinoya/Qubit',
+    //     websiteLink: 'https://serene-kashata-b6fa18.netlify.app/'
+    // },
+    // {
+    //     id: 3,
+    //     title: 'Hounter',
+    //     skills: 'Gulp SCSS Bootstrap',
+    //     previewImgUrl: image04Preview,
+    //     fullPageImgUrl: image04_fullPage,
+    //     sliderImgUrls: [image04_01, image04_02, image04_03, image04_04],
+    //     githubLink: '',
+    //     websiteLink: ''
+    // },
     {
         id: 4,
         title: 'Car Musc',
@@ -89,16 +89,16 @@ export const projects = [
         gitHubLink: 'https://github.com/Soshinoya/Musc',
         websiteLink: ''
     },
-    {
-        id: 5,
-        title: 'Vendugo',
-        skills: 'SCSS Gulp',
-        previewImgUrl: image06Preview,
-        fullPageImgUrl: image06_fullPage,
-        sliderImgUrls: [image06_01, image06_02, image06_03],
-        gitHubLink: 'https://github.com/Soshinoya/VENDUGO',
-        websiteLink: ''
-    },
+    // {
+    //     id: 5,
+    //     title: 'Vendugo',
+    //     skills: 'SCSS Gulp',
+    //     previewImgUrl: image06Preview,
+    //     fullPageImgUrl: image06_fullPage,
+    //     sliderImgUrls: [image06_01, image06_02, image06_03],
+    //     gitHubLink: 'https://github.com/Soshinoya/VENDUGO',
+    //     websiteLink: ''
+    // },
     {
         id: 6,
         title: 'Correct Chess',
